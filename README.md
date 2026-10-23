@@ -1,9 +1,15 @@
 # sistemasexpertos
 
+Instalar libreria
+
+python -m pip install z3-solver
+
 Codigo para evaluar
 
 
 python3 sistema_experto_z3.py --interactivo
+
+
 
 
 Otro ejemplo
